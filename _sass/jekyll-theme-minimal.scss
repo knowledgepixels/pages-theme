@@ -4,12 +4,13 @@
 body {
   background-color: #fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.5 "Inter", sans-serif;
   color:#727272;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font: 14px/1.5 "Martian KP", monospace;
   color:#222;
   margin:0 0 20px;
 }
@@ -35,12 +36,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#db0b5b;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#330315;
   font-weight: bold;
 }
 
@@ -68,7 +69,7 @@ blockquote {
 }
 
 code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  font-family: "Martian KP", monospace;
   color:#333;
 }
 
